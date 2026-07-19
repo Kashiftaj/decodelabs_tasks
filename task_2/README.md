@@ -9,3 +9,6 @@ cd Task_2
 ```bash
 npm start
 # Access server landscape layout locally
+
+## liecence
+this project is part of an Intern Track
